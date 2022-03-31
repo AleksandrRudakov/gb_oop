@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>less_4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\less-4-library\less-4-library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="less-4-lib">
+      <HintPath>..\less-4-lib\bin\Debug\net5.0\less-4-lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
