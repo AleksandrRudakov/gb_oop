@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "less-4", "less-4\less-4.csproj", "{0D62ACBE-174B-4210-A068-780846B048C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "less-4-library", "less-4-library\less-4-library.csproj", "{5289DECE-518D-4199-A47F-1A94619941BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D62ACBE-174B-4210-A068-780846B048C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D62ACBE-174B-4210-A068-780846B048C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D62ACBE-174B-4210-A068-780846B048C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D62ACBE-174B-4210-A068-780846B048C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5289DECE-518D-4199-A47F-1A94619941BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5289DECE-518D-4199-A47F-1A94619941BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5289DECE-518D-4199-A47F-1A94619941BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5289DECE-518D-4199-A47F-1A94619941BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56DCEC7A-0975-43E9-8BAF-CE06B23CDA39}
+	EndGlobalSection
+EndGlobal
